@@ -67,12 +67,12 @@ Tick an item only after the lab's done criteria are met and the code has run suc
 
 | Done | # | Topic | Date | Quiz score |
 |---|---|---|---|---|
-| [ ] | C1 | Customer Support Resolution Agent | | |
-| [ ] | C2 | Code Generation with Claude Code | | |
-| [ ] | C3 | Multi-Agent Research System | | |
-| [ ] | C4 | Developer Productivity with Claude | | |
-| [ ] | C5 | Claude Code for CI/CD | | |
-| [ ] | C6 | Structured Data Extraction | | |
+| [ ] | 6.1 | Customer Support Resolution Agent | | |
+| [ ] | 6.2 | Code Generation with Claude Code | | |
+| [ ] | 6.3 | Multi-Agent Research System | | |
+| [ ] | 6.4 | Developer Productivity with Claude | | |
+| [ ] | 6.5 | Claude Code for CI/CD | | |
+| [ ] | 6.6 | Structured Data Extraction | | |
 
 ## Exam readiness
 

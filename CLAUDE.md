@@ -43,7 +43,7 @@ docs/                                PRD and architecture of this workspace
 PROGRESS.md                          Completion tracker
 ```
 
-Each domain folder has a `README.md` listing its sub-modules. Each sub-module folder has a `README.md` with learning objectives, concepts, a lab brief, done criteria, exam traps, and self-check questions. The learner's code for a lab goes in that lab's folder.
+Sub-module folders are named `<domain>_<sequence>_<Topic>`; for example, sub-module 1.1 is `1_Agentic Architecture & Orchestration/1_1_Agentic Loops/`. Capstones follow the same pattern (`6_1_` to `6_6_`). Each domain folder has a `README.md` listing its sub-modules. Each sub-module folder has a `README.md` with learning objectives, concepts, a lab brief, done criteria, exam traps, and self-check questions. The learner's code for a lab goes in that lab's folder.
 
 ## Exam blueprint
 

@@ -6,9 +6,9 @@ Attempt the capstones after completing Domains 1 to 5. For each one, write a sho
 
 | Capstone | Domains exercised |
 |---|---|
-| [Customer Support Resolution Agent](./Customer%20Support%20Resolution%20Agent/README.md) | 1, 2, 5 |
-| [Code Generation with Claude Code](./Code%20Generation%20with%20Claude%20Code/README.md) | 3, 5 |
-| [Multi-Agent Research System](./Multi-Agent%20Research%20System/README.md) | 1, 2, 5 |
-| [Developer Productivity with Claude](./Developer%20Productivity%20with%20Claude/README.md) | 1, 2, 3 |
-| [Claude Code for CI-CD](./Claude%20Code%20for%20CI-CD/README.md) | 3, 4 |
-| [Structured Data Extraction](./Structured%20Data%20Extraction/README.md) | 4, 5 |
+| [6_1_Customer Support Resolution Agent](./6_1_Customer%20Support%20Resolution%20Agent/README.md) | 1, 2, 5 |
+| [6_2_Code Generation with Claude Code](./6_2_Code%20Generation%20with%20Claude%20Code/README.md) | 3, 5 |
+| [6_3_Multi-Agent Research System](./6_3_Multi-Agent%20Research%20System/README.md) | 1, 2, 5 |
+| [6_4_Developer Productivity with Claude](./6_4_Developer%20Productivity%20with%20Claude/README.md) | 1, 2, 3 |
+| [6_5_Claude Code for CI-CD](./6_5_Claude%20Code%20for%20CI-CD/README.md) | 3, 4 |
+| [6_6_Structured Data Extraction](./6_6_Structured%20Data%20Extraction/README.md) | 4, 5 |

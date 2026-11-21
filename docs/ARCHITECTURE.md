@@ -45,7 +45,7 @@
 ## Design decisions and trade-offs
 
 - **Domain folders follow exam numbering; the recommended study order differs.** Numbering keeps traceability to the exam guide. The study order in `CLAUDE.md` puts API fundamentals (Domain 4) before agent architecture (Domain 1).
-- **Sub-module folders are not numbered.** This matches the convention of the folder created before the scaffold (`5_Context Management & Reliability/Context Window Management`). Order is given in each domain README and in `PROGRESS.md`.
+- **Sub-module folders carry a sequence prefix.** The pattern is `<domain>_<sequence>_<Topic>`, for example `1_1_Agentic Loops`, so that a directory listing shows labs in study sequence. The prefix corresponds to the sub-module number used in guides and in `PROGRESS.md` (`1_1_` is sub-module 1.1).
 - **Guidance in per-folder READMEs, not in `CLAUDE.md`.** `CLAUDE.md` is loaded in every session, so keeping it short preserves context. READMEs are read only when a lab is active.
 - **Labs extend earlier labs.** For example, 1.5 adds hooks to the 1.4 agent and 5.3 extends the 1.2 research system. This reduces repeated setup and mirrors how the capstones combine components.
 - **Folder names contain spaces and `&`.** They are readable but must be quoted in the shell.
